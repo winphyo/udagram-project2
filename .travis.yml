@@ -11,6 +11,6 @@ before_install:
 env: 
   - DOCKER_COMPOSE_VERSION=1.23.2
 install: 
-  - "docker-compose -f docker-compose-build.yaml build --parallel"
+  - "docker-compose -f udacity-c3-deployment/docker/docker-compose-build.yaml build --parallel"
 language: minimal
 services: docker
