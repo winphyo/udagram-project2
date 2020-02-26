@@ -11,6 +11,7 @@ Refractor Udagram app to Microservices
 * [Docker Hub](https://hub.docker.com/u/wpthein) - https://hub.docker.com/u/wpthein
 
 ## Screenshot of kubectl get pod which shows all running containers
+* Kubectl Dashboard Screen of Pods [Git Repo](/MiniKube Pod Status.png) - https://github.com/winphyo/udagram-project2/blob/master/MiniKube%20Pod%20Status.png
 
 ## Screenshot of the application
 
